@@ -2,7 +2,7 @@
   "profiles": {
     "Fase2_Global": {
       "commandName": "Project",
-      "commandLineArgs": "--B2C-FASE2"
+      "commandLineArgs": "*********"
     }
   }
 }
